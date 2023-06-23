@@ -1,0 +1,1 @@
+{"limite":{"x":5,"y":5},"tondeuses":[{"debut":{"point":{"x":1,"y":2},"direction":"North"},"instructions":["G","A","G","A","G","A","G","A","A"],"fin":{"point":{"x":1,"y":3},"direction":"North"}},{"debut":{"point":{"x":3,"y":3},"direction":"East"},"instructions":["A","A","D","A","A","D","A","D","D","A"],"fin":{"point":{"x":5,"y":1},"direction":"East"}}]}
