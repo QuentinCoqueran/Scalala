@@ -1,0 +1,3 @@
+numéro;début_x;début_y;début_direction;fin_x;fin_y;fin_direction;instructions
+1;1;2;North;1;3;North;GAGAGAGAA
+2;3;3;East;5;1;East;AADAADADDA
